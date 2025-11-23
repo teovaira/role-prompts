@@ -7,7 +7,7 @@ Understand how roles affect the model's perspective.
 
 ## The Question
 
-I chose the question: **"What is climate change?"**
+My prompt: **"What is climate change?"**
 
 I will ask this same question to 3 different personas and compare the answers.
 
@@ -28,7 +28,7 @@ Climate change refers to long-term alterations in Earth's climate system, primar
 ```
 
 **Analysis:**
-The scientist persona gave very technical answer with specific numbers and scientific terms like "radiative forcing" and "anthropogenic". Uses precise measurements and references to data. Very formal and academic tone.
+The scientist persona gave very technical answer with specific numbers and scientific terms like "radiative forcing" and "anthropogenic". Uses precise measurements and references to data. Very formal, factual and academic tone.
 
 ---
 
@@ -47,7 +47,7 @@ Climate change is the warming of our planet caused mainly by human activities. W
 ```
 
 **Analysis:**
-The journalist persona used simple language that anyone can understand. No technical jargon. Uses examples people can relate to like hurricanes and rising seas. Has a storytelling feel and includes a call to action at the end. More emotional and urgent tone.
+The journalist persona used simple language that anyone can understand. No technical terminology . Uses examples people can relate to like hurricanes and rising seas. Has a storytelling feel and includes a call to action at the end. More emotional and urgent tone.
 
 ---
 
@@ -66,7 +66,7 @@ Climate change, as commonly presented, is described as unprecedented warming cau
 ```
 
 **Analysis:**
-The skeptical persona questions the mainstream view and brings up counterarguments. Uses phrases like "deserves scrutiny" and "narrative". Points to historical climate variations and questions model accuracy. More argumentative tone and focuses on uncertainty and economic concerns. Very different from the other two.
+The skeptical persona questions the mainstream view and brings up counterarguments. Uses phrases like "deserves scrutiny" and "narrative". Points to historical climate variations and questions model accuracy and in general the climate science. More argumentative tone and focuses on uncertainty and economic concerns. 
 
 ---
 
@@ -75,30 +75,22 @@ The skeptical persona questions the mainstream view and brings up counterargumen
 **How the answers differ:**
 
 1. **Technical Level:**
-   - Scientist: Very technical with numbers and scientific terms
-   - Journalist: Simple everyday language
-   - Critic: Mix of technical points but used to argue
+   - Scientist: Very technical with numbers and scientific terms.
+   - Journalist: Simple everyday language.
+   - Critic: Mix of both but with an argumentative intention.
 
 2. **Tone:**
-   - Scientist: Neutral, factual, academic
-   - Journalist: Urgent, accessible, hopeful
-   - Critic: Questioning, argumentative, cautious
+   - Scientist: Neutral, factual, academic, authoritative.
+   - Journalist: Urgent, accessible, hopeful, touching.
+   - Critic: Questioning, argumentative, cautious.
 
 3. **Focus:**
-   - Scientist: Mechanisms and measurements
-   - Journalist: Impacts and solutions
-   - Critic: Uncertainties and alternative explanations
+   - Scientist: Mechanisms and measurements.
+   - Journalist: Impacts and solutions.
+   - Critic: Uncertainties and alternative explanations.
 
 4. **Perspective:**
-   - Scientist: Presents consensus view with data
-   - Journalist: Explains problem and motivates action
-   - Critic: Challenges assumptions and questions certainty
+   - Scientist: Presents consensus view with data.
+   - Journalist: Explains problem and motivates action towards it's solution.
+   - Critic: Challenges assumptions and questions certainty.
 
-**What I learned:**
-The role instruction completely changes how the AI presents the same information. Same topic but three totally different answers. The scientist gives facts, the journalist tells a story, and the critic argues against the mainstream view. This shows how powerful role prompts are in shaping AI responses.
-
----
-
-## Conclusion
-
-Role instructions have huge impact on AI output. The persona determines not just the words used but the entire perspective and what information gets emphasized or left out. This is important to know when using AI because you need to think about what role will give you the answer you actually need.
