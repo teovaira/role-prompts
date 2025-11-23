@@ -117,3 +117,6 @@ Keep practicing! The logic was correct, you just needed to think about edge case
 4. **Multiple suggestions:** Gave several ways to improve, not just one fix.
 5. **Pythonic advice:** Taught me about Python best practices like using the built-in sum().
 6. **Positive ending:** Encouraged me to keep practicing.
+
+**Brief Analysis:**
+The mentor role transforms AI from a code-fixing tool into a teacher ready to educate by using encouraging language, explaining the WHY behind every correction, and providing multiple improvement suggestions rather than just outputting corrected code, proving how role instructions shape both the depth and the pedagogical approach of technical feedback.

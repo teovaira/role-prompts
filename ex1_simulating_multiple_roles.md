@@ -94,3 +94,6 @@ The skeptical persona questions the mainstream view and brings up counterargumen
    - Journalist: Explains problem and motivates action towards it's solution.
    - Critic: Challenges assumptions and questions certainty.
 
+**Brief Analysis:**
+Role instructions completely transform how AI responses to the provided prompt - the scientist persona uses technical precision and data, the journalist persona prioritizes accessibility and emotional engagement, while the critic persona adopts a questioning stance that challenges mainstream views, showing that persona choice fundamentally shapes both content selection and it's presentation.
+
