@@ -111,24 +111,9 @@ Keep practicing! The logic was correct, you just needed to think about edge case
 
 **How the mentor role influenced the feedback:**
 
-1. **Encouraging tone:** Started with "Great job" instead of just pointing out the error
-2. **Educational approach:** Explained WHY the bug happens, not just HOW to fix it
-3. **Step-by-step guidance:** Showed the problem, then the fix, then improvements
-4. **Multiple suggestions:** Gave several ways to improve, not just one fix
-5. **Pythonic advice:** Taught me about Python best practices like using sum()
-6. **Positive ending:** Encouraged me to keep practicing
-
-**Compared to just asking "fix this code":**
-If I just asked to fix the code without the mentor role, the AI would probably just give me the corrected code without explanation. The mentor role made it explain things in a teaching way that helps me learn, not just get the answer.
-
-**What I learned:**
-- Always check for empty lists before dividing
-- sum() is better than manual loops in Python
-- Edge cases are important to think about
-- Docstrings make code more professional
-
----
-
-## Conclusion
-
-The mentor role made the AI give feedback like a real teacher would. It was encouraging, educational, and gave me multiple levels of improvement. This is much better for learning than just getting a fixed version of the code. The role instruction changed the AI from a code-fixing tool to an actual teaching assistant.
+1. **Encouraging tone:** Started with "Great job" instead of just pointing out the error.
+2. **Educational approach:** Explained WHY the bug happens, not just HOW to fix it.
+3. **Step-by-step guidance:** Showed the problem, then the fix, then improvements.
+4. **Multiple suggestions:** Gave several ways to improve, not just one fix.
+5. **Pythonic advice:** Taught me about Python best practices like using the built-in sum().
+6. **Positive ending:** Encouraged me to keep practicing.
