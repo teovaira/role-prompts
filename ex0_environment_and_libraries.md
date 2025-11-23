@@ -1,11 +1,11 @@
 # Exercise 0: Environment and Libraries
 
 ## Objective
-Set up environment for Python development.
+Set up the environment for Python development.
 
 ---
 
-## Task 1: Install Python
+## Task 1 - 2: Install and verify Python
 
 I checked if Python is installed on my system.
 
@@ -16,10 +16,10 @@ python --version
 
 **Output:**
 ```
-Python 3.10.12
+Python 3.12.3
 ```
 
-**Result:** Python is already installed on my system. Version 3.10.12 which is good because specs say 3.9+ is needed.
+**Result:** Python is already installed on my system. Version 3.12.3 which is good because specs say 3.9+ is needed.
 
 ---
 
@@ -36,7 +36,7 @@ print("Hello, World!")
 
 **How I ran it:**
 ```bash
-python hello.py
+python3 hello.py
 ```
 
 **Output:**
@@ -44,7 +44,7 @@ python hello.py
 Hello, World!
 ```
 
-**Result:** Program works correctly. It prints the message to console.
+**Result:** Program works correctly. It prints the message to the console.
 
 ---
 
@@ -69,15 +69,3 @@ The virtual environment was not created successfully because ensurepip is not av
 2. Activate: `source venv/bin/activate`
 3. See `(venv)` in terminal prompt
 4. Deactivate when done: `deactivate`
-
-**Result:** Documented the virtual environment setup process. On a properly configured system this would work.
-
----
-
-## Summary
-
-Environment is ready:
-- Python 3.10.12 installed ✓
-- Virtual environment created ✓
-- Can run Python programs ✓
-- Ready for next exercises ✓
