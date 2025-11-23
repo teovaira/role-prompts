@@ -7,9 +7,9 @@ Control tone and style with explicit instructions.
 
 ## The Task
 
-I chose the task: **"Write an email inviting a candidate to an interview"**
+My prompt: **"Write an email inviting a candidate to an interview"**
 
-I will write two prompts - one for friendly tone and one for professional tone.
+I will write two prompts - one for friendly tone and one for a professional one.
 
 ---
 
@@ -51,12 +51,12 @@ Best,
 ```
 
 **Analysis of friendly tone:**
-- Uses exclamation marks and emoji
-- Casual language like "Hi" and "chat"
-- Personal touches like "I hope this email finds you well"
-- Encouraging words like "thrilled" and "fantastic"
-- Flexible about rescheduling
-- Warm closing with emoji
+- Uses exclamation marks and emoji.
+- Casual language like "Hi" and "chat".
+- Personal touches like "I hope this email finds you well".
+- Encouraging words like "thrilled" and "fantastic".
+- Flexible about rescheduling.
+- Warm closing with emoji.
 
 ---
 
@@ -100,24 +100,24 @@ Sincerely,
 ```
 
 **Analysis of professional tone:**
-- Formal greeting "Dear Ms. Johnson"
-- No emoji or exclamation marks
-- Structured format with clear sections
-- Formal language like "pleased to invite" and "at your earliest convenience"
-- Business-appropriate closing
-- Includes full contact information
-- More concise and to the point
+- Formal greeting "Dear Ms. Johnson".
+- No emoji or exclamation marks.
+- Structured format with clear sections.
+- Formal language like "pleased to invite" and "at your earliest convenience".
+- Business-appropriate closing.
+- Includes full contact information.
+- More concise and to the point.
 
 ---
 
 ## Comparison
 
 **Similarities (content stays consistent):**
-- Both invite Sarah Johnson to interview
-- Both mention Junior Developer position
-- Both give same date/time/location
-- Both ask for confirmation
-- Both are polite and respectful
+- Both invite Sarah Johnson to interview.
+- Both mention Junior Developer position.
+- Both give same date/time/location.
+- Both ask for confirmation.
+- Both are polite and respectful.
 
 **Differences (tone and style):**
 
@@ -133,12 +133,4 @@ Sincerely,
 | Flexibility | "no worries at all" | "as soon as possible" |
 
 **What I noticed:**
-The friendly version feels like talking to a friend who happens to be hiring. The professional version feels like official business communication. Both are appropriate but for different company cultures. A startup might use friendly, a law firm would use professional.
-
----
-
-## Conclusion
-
-Tone instructions work really well. The AI kept all the important information the same but completely changed how it sounds. The friendly version makes you feel excited and welcome. The professional version makes you feel respected and taken seriously. Both achieve the goal of inviting someone to interview but create very different impressions.
-
-This shows that tone control is powerful - you can adjust how your message feels without changing what it says. Important for different situations and audiences.
+The friendly version feels like talking to a friend or at least someone with whom i have intimacy and who happens to be hiring. The professional version feels like official business communication. Both are appropriate but for different company cultures. A startup might use friendly, a law firm would use professional.
